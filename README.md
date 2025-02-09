@@ -1,2 +1,1 @@
-[Imersão Front-end] Alura
-Aula 1 ao 4
+[Imersão Front-end] Alura - Aula 1 ao 4
